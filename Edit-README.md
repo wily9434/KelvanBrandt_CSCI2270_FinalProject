@@ -21,5 +21,5 @@ There are things that could be optimized like UI but, there are no known bugs pr
 
 -A recommendation is that when playing, there is constant print statement listing the words already guessed that way players don't have to scroll up.
 -Another would be, is to allow player to add words into the bank as well.
--Of course these are just reccomendations and you don't have to do it.
+-Of course these are just reccomendations and you don't have to do it, all up to you.
 
