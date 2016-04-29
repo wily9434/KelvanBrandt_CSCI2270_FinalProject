@@ -16,3 +16,10 @@ Contributors
 Me, myself, and I.
 Open Issues/ Bugs
 There are things that could be optimized like UI but, there are no known bugs present, I also went through the effort to limit the amount of allowed Ascii values and switch upper case inputs to lower case.
+
+-As far as I could tell there were no bugs, or issues.
+
+-A recommendation is that when playing, there is constant print statement listing the words already guessed that way players don't have to scroll up.
+-Another would be, is to allow player to add words into the bank as well.
+-Of course these are just reccomendations and you don't have to do it.
+
